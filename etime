@@ -1,0 +1,27 @@
+#!/bin/bash
+###
+## etime: -Comando time extendido.
+### Autor: t90r.
+## Descripcion:
+# El objetivo de etime es ofrecer capacidades de time,
+# que no son ofrecidas, es decir, extender el comando,
+# y agregarle mas capacidades.
+
+# La principal funcionalidad que quise agregar al crear
+# este comando es poder comparar varios comandos de
+# manera dinamica, e inteligente, permitiendo ademas
+# monitorear los archivos accedidos por los comandos,
+# y comparar graficamente los resultados, o de diferentes
+# maneras, indicar cual de los comandos fue el mas rapido,
+# o el mas lento, y analizar a que se puede deber ese
+# resultado.
+
+##
+#
+
+###
+##
+#
+
+##
+#
